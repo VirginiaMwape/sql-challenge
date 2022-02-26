@@ -1,1 +1,1 @@
-# sql-challengee
+# sql-challenge
